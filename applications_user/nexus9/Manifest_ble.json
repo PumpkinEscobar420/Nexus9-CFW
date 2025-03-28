@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "BLE Ghost",
+    "author": "The Architect",
+    "category": "Custom",
+    "icon": "bt",
+    "entry_point": "ble_spoof_main"
+  }
+}
