@@ -1,0 +1,6 @@
+name: Projector Chaos
+type: IR
+protocol: NEC
+address: 0x00FF
+command: 0xA25D
+repeat: true
