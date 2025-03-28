@@ -1,0 +1,6 @@
+name: TV Kill Loop
+type: IR
+protocol: NEC
+address: 0x00FF
+command: 0x20DF10EF
+repeat: true
