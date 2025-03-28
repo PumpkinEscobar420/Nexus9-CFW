@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "Nexus-9 Tools",
+    "author": "The Architect",
+    "category": "Custom",
+    "icon": "bt", 
+    "entry_point": "app_nexus9_main"
+  }
+}
